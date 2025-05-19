@@ -2,20 +2,25 @@ body{
     background-color: #000;
 }
 .navbar{
+    display: flex;
+    flex-direction: row;
     height: 50px;
     width: 100vw;
-    background-color: yellow;
+
 }
 .left{
     width: 27vw;
     height: 100vh;
+    background-color: #121212;
 }
 .right{
     width: 73vw;
     height: 100vh;
+    background-color: #1f1f1f;
 }
 .main{
     display: flex;
     flex-direction: row;
 }
+
 
