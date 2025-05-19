@@ -1,0 +1,17 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-center{
+    justify-items: center;
+}
+
+.items-center{
+    align-items: center;
+}

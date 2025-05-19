@@ -1,0 +1,21 @@
+body{
+    background-color: #000;
+}
+.navbar{
+    height: 50px;
+    width: 100vw;
+    background-color: yellow;
+}
+.left{
+    width: 27vw;
+    height: 100vh;
+}
+.right{
+    width: 73vw;
+    height: 100vh;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
